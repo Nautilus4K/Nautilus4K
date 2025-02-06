@@ -11,5 +11,5 @@ Almost all of my projects (in the form of repos) are pretty much public right no
 
 Projects that I am proud of 📖:
 - [My-Arduino-Projects](https://github.com/Nautilus4K/My-Arduino-Projects): For introducing me to programming as we know it.
-- [Library-Software](https://github.com/Nautilus4K/Library-Software): For introducing me to backend, frontend, SQLite (even though unoptimized), OOP (even though unused), and integration of different libraries.
+- [Library-Software](https://github.com/Nautilus4K/Library-Software): For introducing me to backend, frontend, SQLite (even though unoptimized), OOP (even though unused in WSGI version), and integration of different libraries.
 - [ATOMIC-Automatic-JUDGER](https://github.com/Nautilus4K/ATOMIC-Automatic-JUDGER): For introducing me to Docker, more advanced CSS stuffs, and gives me challenges to overcome.
