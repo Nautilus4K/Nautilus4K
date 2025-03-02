@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 Thanks for checking by my profile! I did some repos for my projects. Love 'em or hate 'em, I'm still new to the scene.
-I am Quang Vinh, a Vietnamese 🇻🇳. I am currently pretty young (not gonna tell my age), and I have a passion for computer-y things.
+I am Quang Vinh, a Vietnamese 🇻🇳. I have a passion for computer-y things. Even though I liked Arduino, it was shortlived.
 
-Almost all of my projects (in the form of repos) are pretty much public right now.
+Almost all of my projects (in the form of repos) are pretty much public right now (Except for some highly questionable and useless repos which I cannot find a use for).
 
 
-![Colors](https://raw.githubusercontent.com/Nautilus4K/Nautilus4K/refs/heads/main/ColorPalletes.png)
+![Nautilus4K](https://raw.githubusercontent.com/Nautilus4K/Nautilus4K/refs/heads/main/ColorPalletes.png)
 
 
 Projects that I am proud of 📖:
