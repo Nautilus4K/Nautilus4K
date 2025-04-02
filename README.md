@@ -6,7 +6,7 @@ I am Quang Vinh, a Vietnamese 🇻🇳. I have a passion for computer-y things. 
 Almost all of my projects (in the form of repos) are pretty much public right now (Except for some highly questionable and useless repos which I cannot find a use for).
 
 
-![Nautilus4K](https://raw.githubusercontent.com/Nautilus4K/Nautilus4K/refs/heads/main/ColorPalletes.png)
+![Nautilus4K](/ColorPalletes.png)
 
 
 Projects that I am proud of 📖:
