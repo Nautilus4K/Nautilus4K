@@ -20,4 +20,8 @@ I don't know what to write here so thanks mom I guess?
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-![Nautilus4K's GitHub stats](https://github-readme-stats.vercel.app/api?username=nautilus4k&show_icons=true&theme=transparent)
+### Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nautilus4k&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+### Language Usage
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nautilus4k&theme=dark&show_icons=true&hide_border=true&layout=compact)
