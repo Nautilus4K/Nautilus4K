@@ -1,15 +1,23 @@
-## Hi there 👋
-
-Thanks for checking by my profile! I did some repos for my projects. Love 'em or hate 'em, I'm still new to the scene.
-I am Quang Vinh, a Vietnamese 🇻🇳. I have a passion for computer-y things. Even though I liked Arduino, it was shortlived.
-
-Almost all of my projects (in the form of repos) are pretty much public right now (Except for some highly questionable and useless repos which I cannot find a use for).
-
-
 ![Nautilus4K](/ColorPalletes.png)
 
+Hello there, I am **Nautilus4K**. I'm from Vietnam.
+I have coding as a hobby for now and I like doing dumb stuff and see if it sticks, kinda a convenient mentality.
 
-Projects that I am proud of 📖:
-- [My-Arduino-Projects](https://github.com/Nautilus4K/My-Arduino-Projects): For introducing me to programming as we know it.
-- [Library-Software](https://github.com/Nautilus4K/Library-Software): For introducing me to backend, frontend, SQLite (even though unoptimized), OOP (even though unused in WSGI version), and integration of different libraries.
-- [ATOMIC-Automatic-JUDGER](https://github.com/Nautilus4K/ATOMIC-Automatic-JUDGER): For introducing me to Docker, more advanced CSS stuffs, and gives me challenges to overcome.
+Almost all my projects are public. Either remnants of the past or a glimpse of my future, or at least that's what I would like to believe.
+I don't know what to write here so thanks mom I guess?
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+![Nautilus4K's GitHub stats](https://github-readme-stats.vercel.app/api?username=nautilus4k&show_icons=true&theme=transparent)
