@@ -15,8 +15,8 @@ I don't know what to write here so thanks mom I guess?
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
-### Statistics
+<!-- ### Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nautilus4k&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Language Usage
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nautilus4k&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nautilus4k&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
